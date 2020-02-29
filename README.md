@@ -2,5 +2,5 @@
 First Repo
 ## I am learning git!
 > Git is interesting  
-> I love it.
+> I love it.  
 > It's really nice!
